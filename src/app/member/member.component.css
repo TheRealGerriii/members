@@ -1,3 +1,10 @@
+/* File: member.component.css
+Author: Hermányi Gergely
+Copyright: 2021, Hermányi Gergely
+Group: Szoft II/N
+Date: 2022-03-31
+Github: https://github.com/TheRealGerriii
+Licenc: GNU GPL */
 input.ng-invalid {
     border-left: 5px solid red;
 }

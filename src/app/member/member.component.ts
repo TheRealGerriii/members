@@ -1,10 +1,10 @@
 /*
-* File: member.component.ts.java
+* File: member.component.ts
 * Author: Hermányi Gergely
 * Copyright: 2021, Hermányi Gergely
 * Group: Szoft II/N
 * Date: 2022-03-31
-* Github: https://github.com/therealgerriii
+* Github: https://github.com/TheRealGerriii
 * Licenc: GNU GPL
 */
 import { Component, OnInit } from '@angular/core';
